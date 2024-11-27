@@ -2,6 +2,10 @@
 
 A minimalistic offline speedometer app built with NativeScript that provides real-time speed measurements using your device's GPS. The app features a clean, easy-to-read interface with dark mode support and unit conversion.
 
+##Interface
+![Scan QR Code](./Users/sachinvarma/Downloads/IMG_6647.jpeg)
+
+
 ## Features
 
 - Real-time speed monitoring using device GPS
