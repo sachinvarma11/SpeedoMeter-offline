@@ -4,7 +4,6 @@ A minimalistic offline speedometer app built with NativeScript that provides rea
 
 # How to use in your phone
 - In your iphone download the "**NativeScript** App form the App store or Playstore.
-- 
 - Scan the QR code
 <img src="./QRCode.png" alt="Scan QR Code" width="300">
 
