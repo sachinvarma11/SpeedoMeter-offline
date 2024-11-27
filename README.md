@@ -2,13 +2,14 @@
 
 A minimalistic offline speedometer app built with NativeScript that provides real-time speed measurements using your device's GPS. The app features a clean, easy-to-read interface with dark mode support and unit conversion.
 
-## Interface
-![Scan QR Code](./IMG_6647.jpeg)
+# How to use in your phone
+- In your iphone download the "**NativeScript** App form the App store or Playstore.
+- 
+- Scan the QR code
+<img src="./QRCode.png" alt="Scan QR Code" width="300">
 
-## Interface
+- After scanning the QR Code, it redirects to the NativeScript app, builds the app, and launches it once the process is complete.
 <img src="./IMG_6647.jpeg" alt="Scan QR Code" width="300">
-
-
 
 ## Features
 
