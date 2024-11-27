@@ -1,0 +1,18 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="navigatingTo" class="bg-gray-900">
+    <ActionBar title="Speedometer" flat="true" class="bg-gray-800 text-white" />
+    
+    <StackLayout class="p-4 items-center justify-center">
+        <!-- Speed Display -->
+        <Label text="{{ speed }}" class="text-8xl font-bold text-white text-center my-8" />
+        <Label text="{{ unit }}" class="text-2xl text-gray-400 text-center mb-8" />
+        
+        <!-- Unit Toggle -->
+        <Button text="{{ toggleButtonText }}" tap="{{ toggleUnit }}" 
+                class="bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg" />
+        
+        <!-- Status Message -->
+        <Label text="{{ statusMessage }}" 
+               class="text-sm text-gray-400 text-center mt-4" 
+               textWrap="true" />
+    </StackLayout>
+</Page>
