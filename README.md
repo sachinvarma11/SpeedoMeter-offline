@@ -6,7 +6,7 @@ A minimalistic offline speedometer app built with NativeScript that provides rea
 ![Scan QR Code](./IMG_6647.jpeg)
 
 ## Interface
-<img src="./IMG_6647.jpeg" alt="Scan QR Code" width="500">
+<img src="./IMG_6647.jpeg" alt="Scan QR Code" width="300">
 
 
 
